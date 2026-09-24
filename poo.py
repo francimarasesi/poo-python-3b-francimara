@@ -69,3 +69,6 @@ print("\n--- ITENS DE FICÇÃO ---")
 for item in catalogo:
     if item.genero == "Ficcao":
         print(f"Título: {item.titulo}")
+
+
+#primeiro comentario
